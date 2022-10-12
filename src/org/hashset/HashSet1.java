@@ -49,6 +49,7 @@ public class HashSet1 {
 		b.add(10);
 		b.add(20);
 		System.out.println("Ascending Order="+b);
+		System.out.println("first command");
 		
 		
 		
