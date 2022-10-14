@@ -51,6 +51,7 @@ public class HashSet1 {
 		System.out.println("Ascending Order="+b);
 		System.out.println("first command");
 		System.out.println("second command");
+		System.out.println("Monday");
 		
 		
 		
